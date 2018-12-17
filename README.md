@@ -11,3 +11,13 @@ to show some Recieps and their associated videos
 1-`Retrofit` to handle networking and Json response<br />
 2-`picasso` to deal with photoes URL <br />
 3-`exoplayer` to deal with Videos URL and show them in activities & Fragment
+
+## screenshots
+<p float="left">
+<img src="https://github.com/ShamsEldeenAnd/images/blob/master/bakingAppimgs/Screenshot_20181217-135809.jpg" width="250" height="420" />
+<img src="https://github.com/ShamsEldeenAnd/images/blob/master/bakingAppimgs/Screenshot_20181217-135813.jpg" width="250" height="420" />
+
+  <img src="https://github.com/ShamsEldeenAnd/images/blob/master/bakingAppimgs/Screenshot_20181217-135828.jpg" width="250" height="420" />
+  <img src="https://github.com/ShamsEldeenAnd/images/blob/master/bakingAppimgs/Screenshot_20181217-135837.jpg" width="250" height="420" />
+
+</p>
